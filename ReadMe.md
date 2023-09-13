@@ -1,6 +1,6 @@
 ### steps to compile ##
 
-create folder called build
->> cd to build
->> cmake ..
->> make
+mkdir build
+cd build
+cmake ..
+make
